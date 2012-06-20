@@ -1,3 +1,3 @@
-[submodule "chess.js"]
-	path = chess.js
+[submodule "public/chess.js"]
+	path = public/chess.js
 	url = git@github.com:vivekg342/chess.js.git
